@@ -1,0 +1,103 @@
+
+table {
+	color: #333;
+	font-family: Helvetica, Arial, sans-serif;
+	width: 100%;
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-size: 14px;
+	font-family: serif;
+	font: normal;
+}
+
+td, th {
+	border: 1px solid rgb(235, 235, 235); /* No more visible border */
+	height: auto;
+	transition: all 0.3s; /* Simple transition for hover effect */
+}
+
+th {
+	background: rgb(230, 230, 255); /* Darken header a bit */
+	font-weight: bold;
+	border: 1px solid black;
+}
+
+td {
+	text-align: left;
+}
+
+input {
+	border: 0px solid red;
+	background-color: rgb(240,240,240);
+	font-size: 14px;
+	font-family: serif;
+	font: normal;
+	width: 100%;
+}
+
+input[disabled] {
+	background-color: white;
+	font-size: 14px;
+	font-family: serif;
+	font: normal;
+	border: 0px;
+	
+}
+
+.button100{
+	float: left;
+	background-color: #008CBA;
+	color: white;
+	border: 0px solid white;
+	width:  100%;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.button {
+	float: left;
+    background-color: #008CBA; 
+    color: white; 
+    border: 0px solid white;
+    width:  33.3%;
+    font-weight: bold;
+	font-size: 14px;
+}
+
+
+.button:hover {
+    background-color: white;
+    color: black;
+	font-size: 14px;
+}
+
+
+.buttonDetails {
+	float: left;
+    background-color: #008CBA; 
+    color: white; 
+    border: 0px solid white;
+    width:  66.6%;
+    font-weight: bold;
+	font-size: 14px;
+}
+
+
+.buttonDetails:hover {
+    background-color: white;
+    color: black;
+	font-size: 14px;
+}
+
+
+.p-header {
+	font-style: italic;
+	text-align: center;
+	border-bottom: 1px solid black;
+	margin: 0px;
+	background: rgb(204, 217, 255);
+}
+
+.span-header {
+	font-weight: bold;
+}
