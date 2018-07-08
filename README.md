@@ -11,7 +11,7 @@ Main functionalities:
 - sending SMS
 
 
-Technologies used
+Technologies used:
 - Java
 - Spring Security
 - Spring Data
