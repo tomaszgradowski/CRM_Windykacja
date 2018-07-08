@@ -19,6 +19,7 @@ Technologies used
 - Hibernate
 - MySQL
 - JSP
+- JSTL
 - SMSAPI
 
 ![zrzut ekranu z 2018-07-08 22-47-41](https://user-images.githubusercontent.com/40527420/42423851-ae1b9be0-8301-11e8-8822-716c9e3c4ed3.png)
